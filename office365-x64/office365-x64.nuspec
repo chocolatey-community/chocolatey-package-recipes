@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>office365-x64</id>
+    <title>Microsoft Office 365 2016 Pro Plus x64</title>
+    <version>16.0.9330.2124</version>
+    <authors>Microsoft</authors>
+    <owners>myco</owners>
+    <summary>Office 365 Pro Plus</summary>
+    <description>Get the latest versions of your familiar Office programs, such as Word, Excel and PowerPoint, and more, all in one convenient subscription. This will download and silently install the entire Office 365 2013 Professional Plus edition. A license is required and you will be prompted to enter your account information upon first launching the software after install.</description>
+    <tags>office 365 2016 microsoft tools word excel powerpoint outlook access</tags>
+    <projectUrl>https://docs.microsoft.com/en-us/DeployOffice/deploy-office-365-proplus-from-a-local-source</projectUrl>
+    <licenseUrl>http://windows.microsoft.com/en-US/windows-live/microsoft-service-agreement</licenseUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+  </metadata>
+</package>
