@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>vs2017-professional</id>
+    <title>Microsoft Visual Studio 2017 Professional</title>
+    <version>15.7.4</version>
+    <authors>Microsoft</authors>
+    <owners>mycompany</owners>
+    <summary>Microsoft Visual Studio 2017 Professional</summary>
+    <description>Microsoft Visual Studio 2017 Professional is an integrated environment that simplifies the basic tasks of creating, debugging and deploying applications. Let Visual Studio 2017 Premium unleash your imagination and easily deliver your ideas.</description>
+    <tags>microsoft vs2017 Professional</tags>
+    <projectUrl>https://www.visualstudio.com/</projectUrl>
+    <licenseUrl>https://www.visualstudio.com/wp-content/uploads/2017/03/Visual-Studio-2017-Licensing-Whitepaper-March-2017.pdf</licenseUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+  </metadata>
+</package>
