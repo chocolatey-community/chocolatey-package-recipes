@@ -1,4 +1,4 @@
-# Visual Studio 2017 Professional choco package
+# Office 365 x64 choco package
 
 ### Pre-Requisites 
 * [setup.exe](https://www.office.com) available on sign-in to 
