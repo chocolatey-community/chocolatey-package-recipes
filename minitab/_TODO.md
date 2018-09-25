@@ -5,8 +5,9 @@
 ###Requirements:
 - Software binary
 - Licence and licence server
-- chocolatey installed
+- Chocolatey installed
 - UNC path or equivant distribution point such as nuget server
+- Know how to amend and build chocolatey packages (choco pack)
 
 ###Steps in chocolateyinstall.ps1:
 1. Amend variable $chocoshare to be a UNC path or nuget server etc

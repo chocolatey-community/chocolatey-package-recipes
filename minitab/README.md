@@ -5,3 +5,5 @@ in 1972. It began as a light version of OMNITAB, a statistical analysis program 
 
 https://en.wikipedia.org/wiki/Minitab
 https://minitab.com
+
+See _TODO.md file for instructions on how to use this Chocolatey Recipe
