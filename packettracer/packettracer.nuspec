@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>packettracer</id>
+    <version>7.1.1</version>
+    <title>packettracer (Install)</title>
+    <authors>cisco</authors>
+    <owners>cisco</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Packet Tracer 7.1.1</description>
+    <summary>Packet Tracer 7.1.1</summary>
+    <tags>packettracer admin cisco</tags>
+  </metadata>
+</package>
